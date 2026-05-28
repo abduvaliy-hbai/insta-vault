@@ -26,8 +26,8 @@ Re-runs are safe — a gallery-dl download archive (`archive.txt`) tracks fetche
 ## Install
 
 ```bash
-git clone https://github.com/abduvaliy-hbai/instagram-scraping.git
-cd instagram-scraping
+git clone https://github.com/abduvaliy-hbai/insta-vault.git
+cd insta-vault
 
 python3 -m venv venv
 source venv/bin/activate
@@ -127,7 +127,3 @@ gallery-dl was the only one of the three that reliably handled both profile walk
 ## Ethics
 
 Only use this for accounts you own, accounts that have given you explicit permission, or research/archival with appropriate consent. Public visibility is not the same as a license to redistribute.
-
-## Contributing
-
-This is a personal project — pull requests and contributions are not being accepted. You're free to use, fork, and modify the code for your own purposes (subject to the license), but the upstream version will not take patches.
